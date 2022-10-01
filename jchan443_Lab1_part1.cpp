@@ -8,7 +8,7 @@ Exercise: Excersize 1
  I acknowledge all content contained herein, excluding template or example code, is my own original work.
 
 Demo video: https://youtu.be/rTNj27Oe2Vw
-
+*/
 /*
 B0 = 2;   I have tried to make this lab relevant to some of the things you will encounter on exams.
 B1 = 3;   here we are going to give the system an 8-bit signal we will call A. we are going to use  
