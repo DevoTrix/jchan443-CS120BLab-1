@@ -3,11 +3,11 @@ Name: Joseph Chang
 Email: jchan443@ucr.edu
 Discussion section: 022
 Assignment: Lab 1
-Exercise: Excersize 1
+Exercise: Exercise 1
 
  I acknowledge all content contained herein, excluding template or example code, is my own original work.
 
-Demo video: https://youtu.be/rTNj27Oe2Vw
+Demo video: https://youtu.be/N3HLjlztLhg
 */
 /*
 B0 = 2;   I have tried to make this lab relevant to some of the things you will encounter on exams.
